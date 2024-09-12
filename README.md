@@ -30,15 +30,9 @@ CryptoClustering/
 
 ## Instructions
 
-1. **Create a New Repository**: Create a new GitHub repository named `CryptoClustering` and clone it to your local machine.
+1. **Load Data**: Load the `crypto_market_data.csv` into a DataFrame and set the index to the `coin_id` column.
 
-2. **Download Required Files**: Download the [Module 11 Challenge files](https://static.bc-edx.com/ai/ail-v-1-0/m11/lms/starter/M11_Starter_Code.zip) and extract them in your repository folder.
-
-3. **Prepare the Notebook**: Rename `Crypto_Clustering_starter_code.ipynb` to `Crypto_Clustering.ipynb`.
-
-4. **Load Data**: Load the `crypto_market_data.csv` into a DataFrame and set the index to the `coin_id` column.
-
-5. **Summary Statistics**: Use the `describe()` method to get summary statistics for the dataset.
+2. **Summary Statistics**: Use the `describe()` method to get summary statistics for the dataset.
 
 ## Data Preparation
 
